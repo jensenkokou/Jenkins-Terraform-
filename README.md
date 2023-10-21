@@ -1,7 +1,7 @@
 # microservices-msp-jenkins-server-latest
 Prepared for microservices-jenkins-server-latest article
 
-What's in Jenkins Server:
+What's in Jenkins Server - 
 
 Jenkins,
 Jenkins plugins,
